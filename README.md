@@ -170,3 +170,11 @@
 ## 📄 라이선스
 
 본 프로젝트는 spring-breeze 팀의 교육용 협업 프로젝트입니다.
+
+## 🔗 관련 저장소
+
+| 버전 | 링크 |
+|---|---|
+| v2 (Spring Boot 전환) | [SBErp_v2](https://github.com/jooyeap/SBErp_v2) |
+| v3 (Next.js + AI, 현재) | [SBErp_v3](https://github.com/jooyeap/SBErp_v3) |
+| 전체 이력 | [github.com/jooyeap](https://github.com/jooyeap) |
