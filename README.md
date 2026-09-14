@@ -1,6 +1,6 @@
-# SBerp (spring-breeze-erp-v1)
+# SBerp v1 (spring-breeze-erp-v1)
 
-> spring-breeze 팀의 전사적 자원 관리(ERP) 시스템
+> Spring Breeze 팀의 전사적 자원 관리(ERP) 시스템 — 1차 프로젝트
 
 > 📌 **이 저장소는 6인 팀 프로젝트를 포트폴리오 아카이빙 목적으로 개인 저장소에 옮겨온 것입니다.**
 > 본인(김주엽)은 이 중 **전자결재(결재 문서 양식) 모듈**을 단독 담당했습니다. 아래 팀원 역할 분담과 모듈 설명에서 해당 부분을 확인하실 수 있습니다.
@@ -27,8 +27,8 @@
 
 | 항목 | 내용 |
 |---|---|
-| 프로젝트명 | SBerp (spring-breeze-erp-v1) |
-| 팀명 | spring-breeze |
+| 프로젝트명 | SBerp v1 (spring-breeze-erp-v1) |
+| 팀명 | Spring Breeze |
 | 개발 기간 | 2025.06.11 ~ 2025.06.26 (16일) |
 | 팀 인원 | 6명 |
 | 도메인 | Enterprise Resource Planning |
@@ -143,14 +143,18 @@
 ## 📸 스크린샷
 
 **1. 결재 양식 목록**
-![결재 양식 목록](./docs/screenshots/appr-form-list.png)
+
+<p align="center"><img src="./docs/screenshots/appr-form-list.png" width="600" alt="결재 양식 목록"/></p>
+
 등록된 결재 양식을 목록으로 조회하는 화면입니다.
 
-**2. 결재 양식 등록 / 수정**
-![결재 양식 등록](./docs/screenshots/appr-form-write.png)
-양식 코드 중복 확인(`checkCode`)을 포함한 등록/수정 폼입니다.
+<br>
 
-<!-- TODO: docs/screenshots/ 폴더에 이미지 2개 업로드, 파일명 맞추기 -->
+**2. 결재 양식 등록 / 수정**
+
+<p align="center"><img src="./docs/screenshots/appr-form-write.png" width="600" alt="결재 양식 등록"/></p>
+
+양식 코드 중복 확인(`checkCode`)을 포함한 등록/수정 폼입니다.
 
 <br>
 
@@ -204,7 +208,7 @@
 
 ## 📄 라이선스
 
-본 프로젝트는 spring-breeze 팀의 교육용 협업 프로젝트입니다.
+본 프로젝트는 Spring Breeze 팀의 교육용 협업 프로젝트입니다.
 
 <br>
 
