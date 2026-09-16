@@ -144,7 +144,7 @@
 
 **1. 결재 양식 목록**
 
-<p align="center"><img src="./docs/screenshots/appr-form-list.png" width="600" alt="결재 양식 목록"/></p>
+<p align="center"><img src="./spring-breeze-erp-v1/docs/screenshots/appr-form-list.png" width="600" alt="결재 양식 목록"/></p>
 
 등록된 결재 양식을 목록으로 조회하는 화면입니다.
 
@@ -152,7 +152,7 @@
 
 **2. 결재 양식 등록 / 수정**
 
-<p align="center"><img src="./docs/screenshots/appr-form-write.png" width="600" alt="결재 양식 등록"/></p>
+<p align="center"><img src="./spring-breeze-erp-v1/docs/screenshots/appr-form-write.png" width="600" alt="결재 양식 등록"/></p>
 
 양식 코드 중복 확인(`checkCode`)을 포함한 등록/수정 폼입니다.
 
